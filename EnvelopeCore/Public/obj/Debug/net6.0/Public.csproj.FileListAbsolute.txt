@@ -1,0 +1,12 @@
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\bin\Debug\net6.0\Public.deps.json
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\bin\Debug\net6.0\Public.dll
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\bin\Debug\net6.0\Public.pdb
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\obj\Debug\net6.0\Public.csproj.AssemblyReference.cache
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\obj\Debug\net6.0\Public.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\obj\Debug\net6.0\Public.AssemblyInfoInputs.cache
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\obj\Debug\net6.0\Public.AssemblyInfo.cs
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\obj\Debug\net6.0\Public.csproj.CoreCompileInputs.cache
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\obj\Debug\net6.0\Public.dll
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\obj\Debug\net6.0\refint\Public.dll
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\obj\Debug\net6.0\Public.pdb
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Public\obj\Debug\net6.0\ref\Public.dll
