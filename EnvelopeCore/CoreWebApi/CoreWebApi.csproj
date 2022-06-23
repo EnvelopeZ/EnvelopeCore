@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Logs\Logs.csproj" />
     <ProjectReference Include="..\Public\Public.csproj" />
   </ItemGroup>
 

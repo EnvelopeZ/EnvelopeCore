@@ -1,0 +1,13 @@
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\bin\Debug\net6.0\Logs.deps.json
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\bin\Debug\net6.0\Logs.dll
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\bin\Debug\net6.0\Logs.pdb
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\obj\Debug\net6.0\Logs.csproj.AssemblyReference.cache
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\obj\Debug\net6.0\Logs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\obj\Debug\net6.0\Logs.AssemblyInfoInputs.cache
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\obj\Debug\net6.0\Logs.AssemblyInfo.cs
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\obj\Debug\net6.0\Logs.csproj.CoreCompileInputs.cache
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\obj\Debug\net6.0\Logs.dll
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\obj\Debug\net6.0\refint\Logs.dll
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\obj\Debug\net6.0\Logs.pdb
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\obj\Debug\net6.0\ref\Logs.dll
+D:\Project\EnvelopeZ\EnvelopeCore\EnvelopeCore\Logs\bin\Debug\net6.0\log4net.config
